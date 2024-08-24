@@ -1,0 +1,1 @@
+This code is in C, compatibale with Atmel 89C51 Microcontrollers, as well as STC89C52 chip, code uses timer to provide precise control of the movement of the servo motors. The code can control 2 motors at the same time using Bit-wise manipulation.
